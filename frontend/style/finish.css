@@ -1,0 +1,176 @@
+/* Header */
+.html,body{
+    background: rgba(178, 190, 191, 0.67);
+    margin: 0;
+    padding: 0; 
+}
+.navibar{
+   background-color:  #D9D9D9;
+}
+.navbar-brand{
+    width: 100  px;
+    height: 34px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 34px;
+}
+
+.navbar-nav{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+}
+.icon-nav i {
+    color: #E67E51;
+    margin-left: 25px;
+    margin-top: 10px;}
+
+.kategori-nav {
+    align-content: center;
+    justify-content: center;
+    width: 99px;
+    height: 29px; 
+    text-decoration: none;
+    color: #000000;
+   
+}
+
+.search-box{
+    position: relative;
+    height: 25px;
+    background-color:rgba(178, 190, 191, 0.67);
+    border-radius: 60px; 
+    width: 440px;
+    height: 59px;
+    right: 100px;
+
+}
+
+.search-box input{
+    border: none;
+    outline: none;  
+    width:380px;
+    background: none;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.search-box a i { 
+    margin-top: 25px;
+    width: 41px;
+    height: 41px;
+    top: 34px;
+    color: #000000;
+    }
+.logo-nav a i{
+    position: relative;
+    margin-top: 25px;
+    width: 41px;
+    height: 41px;
+    color: #000000;
+    right: 100px;
+}
+.logo-nav2 a i {
+    position: relative;
+    margin-top: 25px;
+    width: 41px;
+    height: 41px;
+    color: #000000;
+    right: 150px;   
+}
+
+/* Tutup Header */
+
+/* Order Finish */
+.finish h5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: -75x;
+    color: #E67E51
+}
+
+.booking-icon img {
+    margin-top: -100px;
+}
+
+.finish p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    margin-top: 20px;
+
+    color: #E67E51;
+}
+
+.btn-warning{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: #000000;
+
+    width: 350px;
+    height: 40px;
+
+    background:#FFBD37;
+    box-shadow: 0px 4px 10px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Tutup order finish */
+
+/* footer */
+.footer{
+    position: relative;
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    top:500px;
+    background: #CDC8C8;
+}
+.footer{
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    top:100px;
+    background: #CDC8C8;
+}
+.footer p {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #9F9C9C;
+}
+.footer-small {
+    position: relative;
+    top: 100px;
+    background-color: #D9D9D9;
+    text-align: center;
+}
+.footer-small p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+
+    margin-top: 20px;
+
+    color: #000000;;
+}
+
+.footer-small a {
+    font-weight: 500;
+    font-size: 16px;
+
+    text-decoration: none;
+
+    color:#E67E51 ;
+}
+/* Tutup footer */

@@ -1,0 +1,372 @@
+*.html,body{
+    background: rgba(178, 190, 191, 0.67);
+    margin: 0;
+    padding: 0; 
+}
+/*navbar  */
+.navibar{
+   background-color:  #D9D9D9;
+}
+.navbar-brand a{
+    width: 100  px;
+    height: 34px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000
+}
+
+.navbar-nav{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+}
+.icon-nav i {
+    color: #E67E51;
+    margin-left: 75px;
+    margin-top: 10px;}
+
+.kategori-nav {
+    align-content: center;
+    justify-content: center;
+    width: 99px;
+    height: 29px; 
+    text-decoration: none;
+    margin-left: 50px;
+    color: #000000;
+   
+}
+
+.search-box{
+    margin-top: 5px;
+    height: 25px;
+    background-color:rgba(178, 190, 191, 0.67);
+    border-radius: 60px;
+    padding: 0px; 
+    width: 440px;
+    height: 59px;
+    left: 471px;
+    top: 25px;
+
+}
+
+.search-box input{
+    border: none;
+    outline: none;
+    width:380px;
+    background: none;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.search-box a i { 
+    margin-top: 25px;
+    width: 41px;
+    height: 41px;
+    top: 34px;
+    color: #000000;
+    }
+.logo-nav a i{
+    margin-top: 25px;
+    width: 41px;
+    height: 41px;
+    top: 34px;
+    color: #000000;
+}
+.logo-nav2 a i {
+    margin-top: 25px;
+    width: 41px;
+    height: 41px;
+    left: 900px;
+    top: 34px;
+    color: #000000;   
+}
+.nav-item a {
+    background-color:#F5F5F5;
+    color: #E67E51;
+    padding: 10px; 
+    border-radius: 10px;
+}
+.nav-item2 a{
+    background-color: #E67E51;
+    color: #F5F5F5;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/*tutup navbar  */
+/*deskripsi produk  */
+.deskripsi-produk{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 100px;
+    background-color:  rgba(182, 240, 243, 0.7);
+}
+.deskripsi{
+    width: 610px;
+    height: 578px;
+    border-radius: 90px;
+    overflow: hidden;
+    position: relative;
+
+}
+.deskripsi-img:hover {
+    transform: scale(1.1);
+}
+.deskripsi-img{
+   box-sizing: border-box;
+    position: relative;
+    width: 610px;
+    height: 578px;
+    border-radius: 90px; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+.deskripsi-text1 {
+    position: relative;
+    width: 450px;
+    height: 70px;
+    left: 70px;
+    padding: 20px;  
+    margin-top: 50px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+    background: #D9D9D9;
+
+}
+.col-6 h4{
+    position: relative;
+    left: 100px;
+    font-size: 18px;
+    color: #000000;
+}
+.col-6 h5{
+    position: relative;
+    top: 100px;
+    left: 250px;
+    font-size: 18px;
+    color: #000000;
+}
+.deskripsi-harga{
+position: relative;
+width: 130px;
+height: 60px;
+bottom: 70px;
+}
+.deskripsi-harga h5{
+    position: relative;
+    background-color: #F5F5F5;
+    color: #E67E51;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+
+.tombol-beli a{
+
+    width: 160px;
+    height: 60px;
+    position: relative;
+    background-color: #E67E51;
+    color: #000000;
+    padding: 20px;
+    top: 130px;
+    border-radius: 30px;
+    left: 248px;
+}
+
+
+/*tutup deskripsi produk  */
+
+
+/*accesories  */
+.perlengkapan{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    left: 15px;
+    top: 200px;
+}
+.col-12 h4{
+    position: relative;
+    width: 250px;
+    height: 34px;
+    left: 20px;
+    bottom: 20px;
+    
+
+}
+.accesories{
+    width: 100%;
+    height: 237px;
+    border-radius: 90px;
+    overflow: hidden;
+    position: relative;
+
+}
+.accesories-img:hover {
+    transform: scale(1.1);
+}
+.accesories-img{
+    width: 324px;
+    height: 237px;
+    left: 20px;
+
+    border-radius: 90px; 
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    transition: all 0.3s ease;
+}
+.accesories1{
+    width: 100%;
+    height: 237px;
+    left: 80px;
+    border-radius: 90px;
+    overflow: hidden;
+
+    position: relative;
+
+}
+.accesories2{
+    width: 100%;
+    height: 237px;
+    left: 160px;
+    border-radius: 90px;
+    overflow: hidden;
+    position: relative;
+  
+   
+
+}
+.accesories-text {
+    position: relative;
+    width: 75px;
+    height: 34px;
+    left: 130px;
+   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+
+}
+.accesories-text1{
+    position: relative;
+    width: 75px;
+    height: 34px;
+    left: 180px;
+ 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000; 
+}
+.accesories-text2{
+    position: relative;
+    width: 75px;
+    height: 34px;
+    left: 250px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    color: #000000;
+}
+
+
+
+/*tutup accesories  */
+/*deskripsi produk  */
+.about h5{
+    position: relative;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 22px;
+    top: 100px;
+    margin-top: 68px;
+    color: #000000;
+}
+
+.about p{
+    position: relative;
+    top: 100px;
+    font-family: 'Poppins';
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 26px;
+
+    color: #949494;
+}
+/*tutup dekripsi produk  */
+/* footer */
+
+.footer{
+    position: relative;
+    margin-top: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    top:200px;
+    background: #CDC8C8;
+}
+.footer{
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    top:200px;
+    background: #CDC8C8;
+}
+.footer p {
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    color: #9F9C9C;
+}
+.footer-small {
+    position: relative;
+    top: 200px;
+    background-color: #D9D9D9;
+    text-align: center;
+}
+.footer-small p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+
+    margin-top: 20px;
+
+    color: #000000;;
+}
+
+.footer-small a {
+    font-weight: 500;
+    font-size: 16px;
+
+    text-decoration: none;
+
+    color:#E67E51 ;
+}
+/* Tutup footer */
